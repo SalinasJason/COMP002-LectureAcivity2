@@ -35,10 +35,9 @@ else {
 }
 
 
-myGrade2 (60);
+myGrade2 (85);
 
 function myGrade2 (myGrade2) {
-    let grade;
     switch (true) {
         case (myGrade2 >= 90):
             console.log("A");
